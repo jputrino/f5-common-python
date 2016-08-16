@@ -9,7 +9,7 @@ Module contents
 
     Submodule List
     ~~~~~~~~~~~~~~
-    .. py:currentmodule:: f5.bigip.tm.gtm.
+    .. py:currentmodule:: f5.bigip.tm.gtm
 
     .. autosummary::
 
